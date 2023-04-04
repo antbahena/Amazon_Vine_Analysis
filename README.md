@@ -1,6 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis
+Using Pyspark we are able to download Amazon review data and create tables in PgAdmin. We are also able to do this by running the server on AWS. Our calculations were done using Pyspark.
 
 ## Results
 
